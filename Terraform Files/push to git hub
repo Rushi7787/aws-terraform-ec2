@@ -1,0 +1,7 @@
+```bash
+git init
+git add .
+git commit -m "EC2 setup manually and using Terraform"
+git branch -M main
+git remote add origin https://github.com/<username>/aws-terraform-ec2.git
+git push -u origin main
